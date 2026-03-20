@@ -21,4 +21,4 @@ Este é um projeto Java SE puro. Para testá-lo em sua máquina local, siga os p
 1. **Pré-requisitos:** Certifique-se de ter o **JDK 17** (ou superior) instalado.
 2. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/TaskManager.git](https://github.com/seu-usuario/TaskManager.git)
+   git clone [https://github.com/natanciriaco/TaskManager.git](https://github.com/natanciriaco/TaskManager.git)
